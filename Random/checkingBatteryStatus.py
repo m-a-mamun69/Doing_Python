@@ -1,3 +1,4 @@
+# Checking Battery Status Using Python
 import psutil 
 
 battery = psutil.sensors_battery()
